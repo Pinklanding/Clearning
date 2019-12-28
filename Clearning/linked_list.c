@@ -46,3 +46,7 @@ void add(List *plist, int number){
     }
 }
 
+int show(List *plist, int number){
+    return 1;
+}
+
